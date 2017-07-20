@@ -1,5 +1,5 @@
 # Ransom-cover
-Ransom-cover is a open source tool designed for detecting ransom-ware and preventing future ransom-ware infections on your PC.
+Ransom-cover is an integrated solution designed for detecting ransom-ware, decrypting infected files and preventing future ransom-ware infections on your PC.
 
 ## Features
 
