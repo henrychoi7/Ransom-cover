@@ -14,3 +14,7 @@ Ransom-cover is an integrated solution designed for detecting ransom-ware, decry
 - Sunwoo Lee
 
 ## License
+
+Open sourced under the [MIT license](LICENSE.md).
+
+<3
